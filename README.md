@@ -3,7 +3,7 @@ The work readiness training
 # Overview 
 This portfolio shows my experience learning from the Work Readiness Training 
 ## Career Development
-![[image alt]([Skills and Interest.png](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Skills%20and%20Interest.png?raw=true))](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Skills%20and%20Interest.png?raw=true)
+![[image alt]([[Skills and Interest.png](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Skills%20and%20Interest.png?raw=true))](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Skills%20and%20Interest.png?raw=true](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Career%20Development.png?raw=true))
 ## Reflection(STAR)
 - **S**ituation:Engaged in a seassion to explore career pathways to prepare for WIL
 - **T**ask: Identify a career aligning with my goals
