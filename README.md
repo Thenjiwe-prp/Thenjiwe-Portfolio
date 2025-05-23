@@ -10,7 +10,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 - **A**ction: Completed career development self-assessment
 - **R**esults: Gained more clarity in pursuing a career in Software Development
 ## Skills and Interests 
-![image alt]([Skills and Interest.png](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Skills%20and%20Interest.png?raw=true))
+![[image alt]([Skills and Interest.png](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Skills%20and%20Interest.png?raw=true))](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Skills%20and%20Interest.png?raw=true)
 ## Reflection(STAR)
 - **S**ituation: Knowing my skills and interest 
 - **T**ask: Understanding more about core values that they are highly personal principles that give meaning to caree and life 
