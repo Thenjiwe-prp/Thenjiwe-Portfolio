@@ -31,7 +31,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 - **A**ction: Completed creat a cv self-assessment
 - **R**esults: Created a finalized job-ready CV
 ## CV Submission 
-![[image alt](CV Submssion.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/CV%20Submission%20.png?raw=true)
+**[CV Submission.pdf](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/My%20CV-merged.pdf)**
 ## Reflection(STAR)
 - **S**ituation: Submitted a CV for WIL
 - **T**ask: Ensure readiness for job application
