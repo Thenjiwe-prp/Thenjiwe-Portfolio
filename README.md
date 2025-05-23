@@ -24,7 +24,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 - **A**ction: Completed a personal assessment self-assessment
 - **R**esults: I am Investigative which mean i enjoy thinking intellectually and solving problems
 ## Creat A CV 
-![image alt](Create a CV.png)
+![[image alt](Create a CV.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Create%20a%20CV.png?raw=true)
 ## Reflection(STAR)
 - **S**ituation: Required to create a professional CV
 - **T**ask: Draft a clear and appealing resume
