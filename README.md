@@ -3,35 +3,35 @@ The work readiness training
 # Overview 
 This portfolio shows my experience learning from the Work Readiness Training 
 ## Career Development 
-!(Career Development.png)
+![image alt](Career Development.png)
 ## Reflection(STAR)
 - **S**ituation:Engaged in a seassion to explore career pathways to prepare for WIL
 - **T**ask: Identify a career aligning with my goals
 - **A**ction: Completed career development self-assessment
 - **R**esults: Gained more clarity in pursuing a career in Software Development
 ## Skills and Interests 
-!(Skills and Interest.png)
+![image alt](Skills and Interest.png)
 ## Reflection(STAR)
 - **S**ituation: Knowing my skills and interest 
 - **T**ask: Understanding more about core values that they are highly personal principles that give meaning to caree and life 
 - **A**ction: Completed skills and interest self-assessment
 - **R**esults: Gained more guidence in my decision and letting my values be my internal compass
 ## Personality Assessment 
-!(Personality Assessment.png)
+![image alt](Personality Assessment.png)
 ## Reflection(STAR)
 - **S**ituation: Finding a siutable career that align with my personality
 - **T**ask: Identify my personality type
 - **A**ction: Completed a personal assessment self-assessment
 - **R**esults: I am Investigative which mean i enjoy thinking intellectually and solving problems
 ## Creat A CV 
-!(Create a CV.png)
+![image alt](Create a CV.png)
 ## Reflection(STAR)
 - **S**ituation: Required to create a professional CV
 - **T**ask: Draft a clear and appealing resume
 - **A**ction: Completed creat a cv self-assessment
 - **R**esults: Created a finalized job-ready CV
 ## CV Submission 
-!(CV Submssion.png)
+![image alt](CV Submssion.png)
 ## Reflection(STAR)
 - **S**ituation: Submitted a CV for WIL
 - **T**ask: Ensure readiness for job application
