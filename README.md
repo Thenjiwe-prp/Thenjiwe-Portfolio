@@ -17,7 +17,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 - **A**ction: Completed skills and interest self-assessment
 - **R**esults: Gained more guidence in my decision and letting my values be my internal compass
 ## Personality Assessment 
-![[image alt](Personality Assessment.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Career%20Development.png?raw=true)
+![[[image alt](Personality Assessment.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Career%20Development.png?raw=true)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/Personality%20Assessment.png?raw=true)
 ## Reflection(STAR)
 - **S**ituation: Finding a siutable career that align with my personality
 - **T**ask: Identify my personality type
