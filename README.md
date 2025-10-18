@@ -53,7 +53,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 -**A**ction: Complete interview skills self-assessment.
 -**R**esults: more confident about Interviews.
 ## Mock Interview
-[![Mock video]()]()
+[![Mock video](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/video%20picture.png)]()
 ## Reflection(STAR)
 -**S**ituation: Doing a interview video.
 -**T**ask: Create appealing interview video .
