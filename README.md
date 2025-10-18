@@ -45,7 +45,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 -**A**ction: Complete Business Communication self-assessment.
 -**R**esults: More confident about business communication.
 ## Interview Skills
-![[image alt](interview skills.png)]()
+![[image alt](interview skills.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/interview%20skills.png)
 ## Reflection(STAR)
 -**S**ituation: Knowing interview skils.
 -**T**ask: Unsure readiness for business interview.
