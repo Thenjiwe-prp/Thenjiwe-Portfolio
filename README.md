@@ -52,7 +52,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 -**A**ction: Complete interview skills self-assessment.
 -**R**esults: more confident about Interviews.
 ## Mock Interview
-
+[![Mock Interviw video]()]()
 ## Reflection(STAR)
 -**S**ituation: Doing a interview video.
 -**T**ask: Create appealing interview video .
@@ -66,7 +66,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 -**A**ction: Complete a professional networking self-assessment.
 -**R**esults: More confident about networking.
 # Workplace Atiquette
-![[image alt](workplace atiquette.png)]()
+![[image alt](workplace atiquette.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/workplace%20etiquette.png)
 ## Reflection(STAR)
 -**S**ituation: Knowing more about workplace atiquette.
 -**T**ask: Ensure readiness for workplace.
