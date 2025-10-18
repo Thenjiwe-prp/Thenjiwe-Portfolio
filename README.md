@@ -59,7 +59,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 -**A**ction: Complete a video interveiw video.
 -**R**esults: Ready for a job interview.
 ## Professional Networking
-![[image alt](professional networking.png)]()
+![[image alt](professional networking.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/professional%20networking.png)
 ## Reflection(STAR)
 -**S**ituation: Knowing more about networking in my caree path.
 -**T**ask: Ensure readiness for networking.
