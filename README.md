@@ -39,7 +39,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 - **R**esults: More confident about job readiness
 ## Business Communication
 ![[image alt](business communication.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/business%20communication.png)
-![[image alt](proof.png)]()
+![[image alt](proof.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/10d191fd8128d7dc3b3a1d7b56f681191ce889ab/proof.png?raw=true)
 ## Reflection(STAR)
 -**S**ituation: Knowing a more about business communicstion.
 -**T**ask: Understanding more about business communication to help build your caree.
@@ -61,6 +61,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 -**R**esults: Ready for a job interview.
 ## Professional Networking
 ![[image alt](professional networking.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/professional%20networking.png)
+![[image alt](.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/professional%20networking.png)
 ## Reflection(STAR)
 -**S**ituation: Knowing more about networking in my caree path.
 -**T**ask: Ensure readiness for networking.
