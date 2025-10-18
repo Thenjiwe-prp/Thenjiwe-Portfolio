@@ -38,10 +38,37 @@ This portfolio shows my experience learning from the Work Readiness Training
 - **A**ction: Submitted the reviewed final version
 - **R**esults: More confident about job readiness
 ## Business Communication
-![[image alt](business communication.png)](
+![[image alt](business communication.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/business%20communication.png)
+## Reflection(STAR)
+-**S**ituation: Knowing a more about business communicstion.
+-**T**ask: Understanding more about business communication to help build your caree.
+-**A**ction: Complete Business Communication self-assessment.
+-**R**esults: More confident about business communication.
+## Interview Skills
+![[image alt](interview skills.png)]()
+## Reflection(STAR)
+-**S**ituation: Knowing interview skils.
+-**T**ask: Unsure readiness for business interview.
+-**A**ction: Complete interview skills self-assessment.
+-**R**esults: more confident about Interviews.
+## Mock Interview
 
-
-
-
-
-
+## Reflection(STAR)
+-**S**ituation: Doing a interview video.
+-**T**ask: Create appealing interview video .
+-**A**ction: Complete a video interveiw video.
+-**R**esults: Ready for a job interview.
+## Professional Networking
+![[image alt](professional networking.png)]()
+## Reflection(STAR)
+-**S**ituation: Knowing more about networking in my caree path.
+-**T**ask: Ensure readiness for networking.
+-**A**ction: Complete a professional networking self-assessment.
+-**R**esults: More confident about networking.
+# Workplace Atiquette
+![[image alt](workplace atiquette.png)]()
+## Reflection(STAR)
+-**S**ituation: Knowing more about workplace atiquette.
+-**T**ask: Ensure readiness for workplace.
+-**A**ction: Complete a workplace atiquette self-assessment.
+-**R**esults: Ready for a workplace atiquette.
