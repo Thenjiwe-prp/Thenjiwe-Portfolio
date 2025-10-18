@@ -68,7 +68,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 -**A**ction: Complete a professional networking self-assessment.
 -**R**esults: More confident about networking.
 # Workplace Atiquette
-![[image a](workplace atiquette.png)]()
+![[image a](workplace atiquette.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/workplace%20etiquette.png)
 ## Reflection(STAR)
 -**S**ituation: Knowing more about workplace atiquette.
 -**T**ask: Ensure readiness for workplace.
