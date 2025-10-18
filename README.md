@@ -39,6 +39,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 - **R**esults: More confident about job readiness
 ## Business Communication
 ![[image alt](business communication.png)](https://github.com/Thenjiwe-prp/Thenjiwe-Portfolio/blob/main/business%20communication.png)
+![[image alt](proof.png)]()
 ## Reflection(STAR)
 -**S**ituation: Knowing a more about business communicstion.
 -**T**ask: Understanding more about business communication to help build your caree.
