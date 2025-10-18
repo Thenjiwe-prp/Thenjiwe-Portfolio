@@ -38,7 +38,7 @@ This portfolio shows my experience learning from the Work Readiness Training
 - **A**ction: Submitted the reviewed final version
 - **R**esults: More confident about job readiness
 ## Business Communication
-![[image alt]
+![[image alt](business communication.png)](
 
 
 
