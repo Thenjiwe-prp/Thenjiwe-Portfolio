@@ -37,6 +37,8 @@ This portfolio shows my experience learning from the Work Readiness Training
 - **T**ask: Ensure readiness for job application
 - **A**ction: Submitted the reviewed final version
 - **R**esults: More confident about job readiness
+## Business Communication
+![[image alt]
 
 
 
